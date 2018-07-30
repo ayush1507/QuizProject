@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="answer">Answer</string>
+    <string name="submit">SUBMIT</string>
+
+    <string name="ques1">Which is the first crypto-currency ?</string>
+    <string name="ques2">How many alt-coins have been created ?</string>
+    <string name="ques3">Which was the first crypto-currency not based on the Blockchain ?</string>
+    <string name="ques4">Which of these are crypto-currencies ?</string>
+
+
+    <string name="option2a">Around 5000 Coins</string>
+    <string name="option2b">Around 4000 Coins</string>
+    <string name="option2c">Around 2000 Coins</string>
+    <string name="option2d">Around 7000 Coins</string>
+
+    <string name="option3a">IOTA</string>
+    <string name="option3b">Ethereum</string>
+    <string name="option3c">Ripple</string>
+    <string name="option3d">Zilliqa</string>
+
+    <string name="option4a">Tron</string>
+    <string name="option4b">E-Cash</string>
+    <string name="option4c">Dash</string>
+    <string name="option4d">Dogecoin</string>
+
+</resources>

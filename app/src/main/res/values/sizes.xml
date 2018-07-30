@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="questsize">22dp</dimen>
+    <dimen name="leftmar">20sp</dimen>
+    <dimen name="optsize">20dp</dimen>
+    <dimen name="topmar">15sp</dimen>
+</resources>
